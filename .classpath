@@ -9,6 +9,5 @@
 	<classpathentry kind="lib" path="C:/Users/giris/eclipse_EE_Web/JPAEXAMPLE/lib/eclipselink-2.0.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/giris/eclipse_EE_Web/JPAEXAMPLE/lib/javax.persistence-2.1.0-rc1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/giris/eclipse_EE_Web/JPAEXAMPLE/lib/mysql-connector-java-8.0.28.jar"/>
-	<classpathentry kind="lib" path="C:/Users/giris/Downloads/lombok-1.18.22.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
